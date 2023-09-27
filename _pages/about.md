@@ -3,6 +3,26 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 안녕하세요!  
+저는 현대HT에서 안드로이드 프레임워크를 개발하고 있는 Epeng입니다!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## 경력
+### 2023-05 ~ 현재 
+#### 현대에이치티(주) 프레임워크팀 주임 연구원
+    안드로이드 Nought 모델 월패드, 세대기에 들어가는 프레임워크를 개발하고 있습니다.
+### 2018-10 ~ 2022-01
+#### (주)큐버 미들웨어팀 주임 연구원
+    안드로이드 GTVS 플랫폼에서 사용자의 요구사항에 따라 프레임워크 수정과 시스템 앱&서비스를 개발하였으며 모든 개발은 Google의 필수요구사항에 맞춰 개발을 진행하였습니다.
+    AOSP, GTVS, GTS, Selinux, Android Treble, Android App에 대한 개발을 진행하였습니다.
+- LG UHD4K 셋톱박스 프레임워크 개발
+- 서경방송 셋톱박스 업그레이드&기기제어 모듈 설계 및 개발
+- Orange Spain Setup-box Framework & System App development
+
+## 학력
+### 2022.03 ~ 현재
+#### 서울과학기술대학교 융합기계공학 전공
+기계공학과 하드웨어를 전공하고 있습니다.
+
+### 2016.01 ~ 2019.01
+#### 대덕소프트웨어마이스터고등학교 임베디드SW과
+Embedded SW를 전공하였습니다.
