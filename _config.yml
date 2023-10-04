@@ -21,11 +21,16 @@ github_username: mskang116
 minimal_mistakes_skin: dark
 search: true
 
+domain: epeng.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://epeng-dev.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+repository: "epeng-dev/epeng-dev.github.io"
+github: [metadata]
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title
+permalink: /:title
 paginate: 5 # amount of posts to show
 paginate_path: /page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -106,7 +111,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /categories
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /tags
