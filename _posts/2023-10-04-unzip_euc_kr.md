@@ -18,7 +18,7 @@ tags:
 기본적으로 반디집 같은 압축 프로그램을 이용하지 않고 윈도우 기본 압축을 하게 되면 CP949로 인코딩 되게 된다.
 - 반디집에 경우에는 기본값으로 확장필드에 UTF-8 파일명을 저장하기 때문에 어떤 시스템 언어나 프로그램이라도 거의 정상적으로 보인다.
 - 출처: [https://kr.bandisoft.com/bandizip/help/utf8/](https://kr.bandisoft.com/bandizip/help/utf8/)
-![마소 또 너야 이이익]({{"/assets/images/2023-10-24-unzip_ecu_kr/hangul_crash.png"|https://epeng-dev.github.io}})
+![마소 또 너야 이이익](/assets/images/2023-10-24-unzip_ecu_kr/hangul_crash.png)
 
 
 따라서 나는 한국기업에서 한국인들과 같이 일하기 때문에 기본적으로 zip 파일을 CP949로 열려고 한다. 따라서 bashrc에다가 해당 내용을 적용하려고 한다.
@@ -37,6 +37,6 @@ export ZIPINFO="-O cp949"
 -O cp949는 Windows의 CP949로 디코딩하게 해준다.
 - -O CHARSET  specify a character encoding for DOS, Windows and OS/2 archives
 
-![키야 잘 된다]({{"/assets/images/2023-10-24-unzip_ecu_kr/hangul_success.png"|https://epeng-dev.github.io}})
+![키야 잘 된다](/assets/images/2023-10-24-unzip_ecu_kr/hangul_success.png)
 
 해당 해결 방법의 출처: [https://daechu.tistory.com/12](https://daechu.tistory.com/12)
