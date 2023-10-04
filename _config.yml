@@ -25,9 +25,9 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /:categories/:title
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -64,25 +64,25 @@ author:
       url: "https://epeng.github.io"
     - label: "FaceBook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://twitter.com/"
+      url: "https://www.facebook.com/profile.php?id=100007975096290&mibextid=LQQJ4d"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mskang116"
+      url: "https://github.com/epeng-dev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/minsub_kang?igshid=OGQ5ZDc2ODk2ZA=="
 
 footer:
   links:
     - label: "FaceBook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://twitter.com/"
+      url: "https://www.facebook.com/profile.php?id=100007975096290&mibextid=LQQJ4d"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mskang116"
+      url: "https://github.com/epeng-dev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/minsub_kang?igshid=OGQ5ZDc2ODk2ZA=="
 
 defaults:
   # _posts
