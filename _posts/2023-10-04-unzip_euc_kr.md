@@ -1,7 +1,7 @@
 ---
 title: "우분투에서 한글 zip 파일을 열 때 깨지는 문제 수정 방법"
 categories:
-  - 삽질
+  - Ubuntu
 tags:
   - Ubuntu
   - Ubuntu 22.04
